@@ -68,7 +68,6 @@ function main() {
         : 2;
 
       const shadow = helpButtonHolder.attachShadow({
-        mode: 'closed',
         delegatesFocus: true
       });
 
